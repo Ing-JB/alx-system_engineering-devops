@@ -6,3 +6,4 @@ vi 6-third_line
 #!/bin/bash
 
 head -3 iactatouch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:); echo 'Best School'
+head -3 iactatouch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:); echo 'Best School'
